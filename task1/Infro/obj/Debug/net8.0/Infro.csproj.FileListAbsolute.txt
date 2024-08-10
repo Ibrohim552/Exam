@@ -1,0 +1,11 @@
+D:\Dotnet\week_1\exam\task1\Infro\bin\Debug\net8.0\Infro.deps.json
+D:\Dotnet\week_1\exam\task1\Infro\bin\Debug\net8.0\Infro.dll
+D:\Dotnet\week_1\exam\task1\Infro\bin\Debug\net8.0\Infro.pdb
+D:\Dotnet\week_1\exam\task1\Infro\obj\Debug\net8.0\Infro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\week_1\exam\task1\Infro\obj\Debug\net8.0\Infro.AssemblyInfoInputs.cache
+D:\Dotnet\week_1\exam\task1\Infro\obj\Debug\net8.0\Infro.AssemblyInfo.cs
+D:\Dotnet\week_1\exam\task1\Infro\obj\Debug\net8.0\Infro.csproj.CoreCompileInputs.cache
+D:\Dotnet\week_1\exam\task1\Infro\obj\Debug\net8.0\Infro.dll
+D:\Dotnet\week_1\exam\task1\Infro\obj\Debug\net8.0\refint\Infro.dll
+D:\Dotnet\week_1\exam\task1\Infro\obj\Debug\net8.0\Infro.pdb
+D:\Dotnet\week_1\exam\task1\Infro\obj\Debug\net8.0\ref\Infro.dll
